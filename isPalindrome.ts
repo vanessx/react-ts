@@ -4,3 +4,5 @@ function isPalindrome(word: string): boolean {
 
 	return lowerCaseWord === reversedWord;
 }
+
+// a
